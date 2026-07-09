@@ -9,7 +9,7 @@ export default function DashboardPage() {
           <div className="flex items-center justify-between">
             <div>
               <p className="text-sm text-black">Total Armada</p>
-              <p className="text-2xl font-bold text-black mt-1">24</p>
+              <p className="text-2xl font-bold text-black mt-1">32</p>
             </div>
             <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
               <span className="text-blue-600 text-xl">🚗</span>
@@ -22,8 +22,8 @@ export default function DashboardPage() {
         <div className="bg-white rounded-xl shadow-sm p-6 border border-gray-100">
           <div className="flex items-center justify-between">
             <div>
-              <p className="text-sm text-black">Transaksi Hari Ini</p>
-              <p className="text-2xl font-bold text-black mt-1">8</p>
+              <p className="text-sm text-black">Sedang Jalan</p>
+              <p className="text-2xl font-bold text-black mt-1">12</p>
             </div>
             <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center">
               <span className="text-green-600 text-xl">📋</span>
@@ -36,22 +36,22 @@ export default function DashboardPage() {
         <div className="bg-white rounded-xl shadow-sm p-6 border border-gray-100">
           <div className="flex items-center justify-between">
             <div>
-              <p className="text-sm text-black">Pelanggan Aktif</p>
-              <p className="text-2xl font-bold text-black mt-1">156</p>
+              <p className="text-sm text-black">Tersedia di Garasi</p>
+              <p className="text-2xl font-bold text-black mt-1">20</p>
             </div>
             <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center">
               <span className="text-purple-600 text-xl">👥</span>
             </div>
           </div>
-          <p className="text-xs text-green-600 mt-3">+12 bulan ini</p>
+          <p className="text-xs text-green-600 mt-3">+2 dari kemaren</p>
         </div>
 
         {/* Card Pendapatan */}
         <div className="bg-white rounded-xl shadow-sm p-6 border border-gray-100">
           <div className="flex items-center justify-between">
             <div>
-              <p className="text-sm text-black">Pendapatan Bulan Ini</p>
-              <p className="text-2xl font-bold text-black mt-1">Rp 45JT</p>
+              <p className="text-sm text-black">Pendapatan Hari Ini</p>
+              <p className="text-2xl font-bold text-black mt-1">Rp 4.5JT</p>
             </div>
             <div className="w-12 h-12 bg-yellow-100 rounded-full flex items-center justify-center">
               <span className="text-yellow-600 text-xl">💰</span>

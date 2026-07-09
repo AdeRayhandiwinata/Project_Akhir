@@ -1,7 +1,7 @@
 const armadaData = [
   {
     id: 1,
-    nama: "Toyota Avanza",
+    nama: "Toyota Avanza (Matic)",
     tipe: "MPV",
     tahun: 2023,
     plat: "KT 1234 AB",
@@ -11,7 +11,7 @@ const armadaData = [
   },
   {
     id: 2,
-    nama: "Honda Brio",
+    nama: "Honda Brio (Manual)",
     tipe: "Hatchback",
     tahun: 2024,
     plat: "KT 5678 CD",
@@ -21,7 +21,7 @@ const armadaData = [
   },
   {
     id: 3,
-    nama: "Toyota Innova Reborn",
+    nama: "Toyota Innova Reborn (Matic)",
     tipe: "MPV",
     tahun: 2024,
     plat: "KT 9012 EF",
@@ -31,7 +31,7 @@ const armadaData = [
   },
   {
     id: 4,
-    nama: "Toyota Fortuner",
+    nama: "Toyota Fortuner (Matic)",
     tipe: "SUV",
     tahun: 2023,
     plat: "KT 3456 GH",
@@ -41,7 +41,7 @@ const armadaData = [
   },
   {
     id: 5,
-    nama: "Honda CR-V",
+    nama: "Honda CR-V (Matic)",
     tipe: "SUV",
     tahun: 2024,
     plat: "KT 7890 IJ",
@@ -51,7 +51,7 @@ const armadaData = [
   },
   {
     id: 6,
-    nama: "Daihatsu Xenia",
+    nama: "Daihatsu Xenia (Manual)",
     tipe: "MPV",
     tahun: 2022,
     plat: "KT 1122 KL",

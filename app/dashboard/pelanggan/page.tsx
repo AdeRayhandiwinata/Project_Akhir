@@ -73,11 +73,11 @@ export default function PelangganPage() {
         </div>
         <div className="bg-white rounded-xl shadow-sm p-4 border border-gray-100">
           <p className="text-sm text-black">Pelanggan Aktif</p>
-          <p className="text-xl font-bold text-green-600 mt-1">142</p>
+          <p className="text-xl font-bold text-green-600 mt-1">12</p>
         </div>
         <div className="bg-white rounded-xl shadow-sm p-4 border border-gray-100">
           <p className="text-sm text-black">Pelanggan Baru (Bulan Ini)</p>
-          <p className="text-xl font-bold text-blue-600 mt-1">12</p>
+          <p className="text-xl font-bold text-blue-600 mt-1">8</p>
         </div>
       </div>
 
